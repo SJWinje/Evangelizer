@@ -1,0 +1,17 @@
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.MainPage.xaml
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.RomansRoadPage.xaml
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.QuestForJoyPage.xaml
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.VersePage.xaml
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/MainPage.xaml.g.cs
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/RomansRoadPage.xaml.g.cs
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/QuestForJoyPage.xaml.g.cs
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/VersePage.xaml.g.cs
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Evangelizer.dll.mdb
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Evangelizer.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.dll.mdb
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Xamarin.Forms.Core.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.QFJPage.xaml
+/Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/QFJPage.xaml.g.cs
