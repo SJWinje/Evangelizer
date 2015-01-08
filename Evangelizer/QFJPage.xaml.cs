@@ -44,8 +44,8 @@ namespace Evangelizer
 
 			// Add heading
 			Label heading = new Label { Text = "Quest for Joy", 
-				HorizontalOptions = LayoutOptions.CenterAndExpand };
-//				Font = Font.SystemFontOfSize(20, FontAttributes.Italic)};
+				HorizontalOptions = LayoutOptions.CenterAndExpand,
+				FontAttributes = FontAttributes.Bold };
 			parent.Children.Add (heading);
 
 			// Add buttons

@@ -17,8 +17,8 @@ namespace Evangelizer
 				Spacing = 10, Padding = 20,
 				VerticalOptions = LayoutOptions.Start,
 				Children = {
-					new Label { Text = scripture.Heading() }, //, Font=Font.SystemFontOfSize(20, FontAttributes.Bold) },
-					new Label { Text = scripture.Verse() } //, Font = Font.SystemFontOfSize(FontAttributes.Italic) },
+					new Label { Text = scripture.Heading(), FontAttributes=FontAttributes.Bold },
+					new Label { Text = scripture.Verse(), FontAttributes=FontAttributes.Italic },
 					//new Label { Text = scripture.Reference() }
 				}
 			};
