@@ -2,21 +2,20 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Evangelizer.RomansRoadPage">
 
   <StackLayout Padding="5,20,5,5">
-    	<Label Text = "Romans Road Page" 
+    	<Label Text = "The Romans Road" 
 				Font="24" TextColor="Gray" />
   
          <Button Text="Romans 3:23" 
-               Font="36" BorderRadius="0" Clicked="OnButtonClicked" />
+               BorderRadius="0" Clicked="OnButtonClicked" />
          <Button Text="Romans 6:23a" 
-               Font="36" BorderRadius="0" Clicked="OnButtonClicked" />
+               BorderRadius="0" Clicked="OnButtonClicked" />
          <Button Text="Romans 5:8" 
-               Font="36" BorderRadius="0" Clicked="OnButtonClicked" />
+               BorderRadius="0" Clicked="OnButtonClicked" />
          <Button Text="Romans 10:9" 
-               Font="36" BorderRadius="0" Clicked="OnButtonClicked" />
+               BorderRadius="0" Clicked="OnButtonClicked" />
          <Button Text="Romans 6:23b" 
-               Font="36" BorderRadius="0" Clicked="OnButtonClicked" />
+               BorderRadius="0" Clicked="OnButtonClicked" />
 
-  	
   </StackLayout>
 
 </ContentPage>

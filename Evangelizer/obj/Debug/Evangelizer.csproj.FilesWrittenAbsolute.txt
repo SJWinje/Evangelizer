@@ -3,8 +3,6 @@
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.RomansRoadPage.xaml
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.VersePage.xaml
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.QFJPage.xaml
-/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Xamarin.Forms.Core.dll
-/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/MainPage.xaml.g.cs
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/RomansRoadPage.xaml.g.cs
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/VersePage.xaml.g.cs
@@ -13,3 +11,15 @@
 /Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Evangelizer.dll
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.dll
 /Users/winje/Projects/Evangelizer/Evangelizer/obj/Debug/Evangelizer.dll.mdb
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Xamarin.Forms.Core.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/mscorlib.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.Core.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.Linq.Queryable.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.Diagnostics.Tools.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.Net.Primitives.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.Net.Requests.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.Net.NetworkInformation.dll
+/Users/winje/Projects/Evangelizer/Evangelizer/bin/Debug/System.Text.RegularExpressions.dll

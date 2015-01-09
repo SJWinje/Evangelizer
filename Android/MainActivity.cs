@@ -13,8 +13,9 @@ using Xamarin.Forms.Platform.Android;
 
 namespace Evangelizer.Android
 {
-	[Activity (Label = "Evangelizer.Android.Android", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+	[Activity (Label = "Evangelizer.Android", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 	public class MainActivity : AndroidActivity
+//	public class MainActivity : FormsApplicationActivity // AndroidActivity
 	{
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -23,6 +24,7 @@ namespace Evangelizer.Android
 			Xamarin.Forms.Forms.Init (this, bundle);
 
 			SetPage (App.GetMainPage ());
+//			LoadApplication (App.GetMainPage ());
 		}
 	}
 }

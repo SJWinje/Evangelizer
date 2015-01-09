@@ -6,7 +6,7 @@
 
   <StackLayout Padding="5,20,5,5">
     	<Label Text = "Choose which tool you would like to use" 
-				Font="24" TextColor="Gray" />
+				Font="24" TextColor="Gray" HorizontalOptions = "CenterAndExpand" />
 
        <Button Text="Romans Road" 
                Font="36" BorderRadius="0" Clicked="OnButtonClicked" />
